@@ -1,10 +1,10 @@
 #!/bin/sh
-if [ -f /Users/703402887/Desktop/text.txt ]; then
+if [ -f /Users/Sravan/Desktop/text.txt ]; then
 
 echo "file exits!"
 
 else
 
-echo "no file exists" >> /Users/703402887/Desktop/text.log
+echo "no file exists" >> /Users/Sravan/Desktop/text.log
 
 fi
